@@ -39,8 +39,11 @@
 
 ## Deliverable 4: Deliverable 4: Create the Movie Database
 
-&nbsp;&nbsp;&nbsp;&nbsp; Please view _ETL_Deliverable4_start_code_ for better details. I was able to wrtie a code to create the movie data base. 
+&nbsp;&nbsp;&nbsp;&nbsp; Please view _ETL_Deliverable4_start_code_ for better details. I was able to wrtie a code to create the movie data base. It was already uploaded within the _practice_ python formula. 
 
  - The Python Code  
 ![](https://github.com/JeanPyerC/Rutgers-Movies_ETL/blob/main/Challenge/Photos/Pic9.png)
+
+ - The pgAdmin upload
+![](https://github.com/JeanPyerC/Rutgers-Movies_ETL/blob/main/Challenge/Photos/Pic10.png)
 
